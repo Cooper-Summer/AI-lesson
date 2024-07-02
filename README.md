@@ -1,25 +1,15 @@
-# Data-Driven Decisions: Monte Carlo Analysis for Technical Communications
+# Ethical use of AI in writing and coding 
 
 Greetings!
 
-Thanks for joining this Data-Driven Decisions course. This is a
-hands-on, writing portfolio-based course. I built the [course
-website](https://cooperrc.github.io/data-driven-decisions/README.html)
+Thanks for joining this demo course on ethical AI use. This is a
+hands-on, writing and coding demo course. I built the [course
+website](https://cooper-summer.github.io/AI-lesson/README.html)
 using an [open source
 license](https://creativecommons.org/licenses/by/4.0/). Reuse these materials
 in professional, academic, or entrepreneurial practices you embark upon.
 Make sure you link your newly-created work back to our course and
 maintain the same license. 
-
-Join us on the [GitHub Discussions]()
-
-## [View the current syllabus](./syllabus.md)
-
-## [Module_00 - Getting Started](./module_00/README.md)
-## [Module_01 - Writign about random numbers](./module_01/README.md)
-## [Module_02 - coming soon](./module_02/README.md)
-## [Module_03 - coming soon](./module_03/README.md)
-## [Module_04 - Case Studies](./module_04/README.md)
 
 ## License
 

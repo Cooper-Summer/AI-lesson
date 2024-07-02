@@ -4,7 +4,6 @@
 format: jb-book
 root: README
 chapters:
-- file: module_00/README
 - file: module_00/01_writing-w-llms.ipynb
 - file: module_00/HW_00
 - file: module_00/HW_01
