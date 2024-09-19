@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2in"
+   height="2in"
+   viewBox="0 0 50.8 50.800002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="AI_ethics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="ColoredDot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Colored dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-fill;fill-rule:evenodd;stroke:context-stroke;stroke-width:2"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path20" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6796875"
+     inkscape:cx="169.07907"
+     inkscape:cy="91.088372"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1352"
+     inkscape:window-height="903"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19239px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 23.665479,29.089943 c -1.887951,0.200612 -3.597291,1.98984 -4.275544,3.763136 -0.355114,0.92845 0.352345,2.961248 0.352345,2.961248 0,0 -0.984373,2.357873 -0.628067,2.877247 0.238556,0.347734 1.256691,0.145523 1.256691,0.145523 0,0 0.37783,2.26476 1.256577,2.771319 0.892964,0.514755 3.076908,-0.306371 3.076908,-0.306371 l -1.649191,4.463907 6.143077,0.0953 -1.373132,-5.226311 c 0,0 4.222615,-4.761314 3.39368,-7.319789 -0.889199,-2.744476 -4.684564,-4.530044 -7.553344,-4.225209 z"
+       id="path1"
+       sodipodi:nodetypes="aacscaccccaa" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19239px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#ColoredDot);marker-end:url(#ColoredDot)"
+       d="m 33.187693,29.434232 h 7.843719 l 5.912119,-3.413364"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19239px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#ColoredDot);marker-end:url(#ColoredDot)"
+       d="m 33.744731,34.274869 h 7.782421 l 6.682469,-3.858125"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19239px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#ColoredDot);marker-end:url(#ColoredDot)"
+       d="m 33.585003,39.013939 h 8.080403 l 2.958811,5.124812"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19239px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#ColoredDot);marker-end:url(#ColoredDot)"
+       d="M 17.210329,33.889191 H 8.6422378 L 1.7564455,27.0034"
+       id="path5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19239px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#ColoredDot);marker-end:url(#ColoredDot)"
+       d="M 18.635362,29.868228 H 11.403715 L 6.9776075,22.201989"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19239px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#ColoredDot);marker-end:url(#ColoredDot)"
+       d="M 16.488193,41.619713 H 7.2995315 l -3.135233,5.430381"
+       id="path7" />
+    <rect
+       style="fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:0.477347"
+       id="rect7"
+       width="1.7634109"
+       height="12.343877"
+       x="24.44235"
+       y="14.552896"
+       ry="0.7493248" />
+    <rect
+       style="fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:0.477347"
+       id="rect8"
+       width="30.141174"
+       height="1.5888449"
+       x="10.240414"
+       y="13.368964"
+       ry="0.7493248" />
+    <rect
+       style="fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:0.466367"
+       id="rect9"
+       width="3.2881663"
+       height="3.4667554"
+       x="10.2878"
+       y="19.485735"
+       ry="1.7333777" />
+    <path
+       style="fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:0.238673px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.92432,14.287025 -1.839037,6.957064 3.678075,-0.07215 z"
+       id="path9"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:0.469451"
+       id="rect10"
+       width="3.33476"
+       height="3.4636719"
+       x="37.450153"
+       y="19.487272"
+       ry="1.731836" />
+    <path
+       style="fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:0.238673px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 39.133139,14.287025 -1.839037,6.957064 3.678074,-0.07215 z"
+       id="path10"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:0.477347"
+       id="rect11"
+       width="0.99887025"
+       height="0.99887025"
+       x="24.803663"
+       y="13.597915"
+       ry="0.49943513" />
+  </g>
+</svg>
